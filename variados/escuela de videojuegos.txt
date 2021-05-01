@@ -1,0 +1,4 @@
+Escuela de video juegos:
+	crear una escuela de videojuegos con una marca que 
+	abarque varios tipos de jugadores élite que formen 
+	equipos para competencias e-sports

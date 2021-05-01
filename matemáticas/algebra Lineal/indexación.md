@@ -1,0 +1,3 @@
+# Indexación
+
+Quien estudie este curso deberá estar muy atento a este tema ya que en la gran mayoría de literatura el estándar es que los índices  de los $n$-vectores corran desde $i=1$ hasta $i=n$. En este curso, y salvo que se indique explícitamente lo contrario, los índices en los $n$-vectores correrán desde $i=0$ hasta $n-1$ para hacer más natural la introducción de los conceptos y problemas en python.

@@ -1,0 +1,6 @@
+app de entrenamiento de tkd:
+	Realizar una aplicación para definir el entrenamiento de tkd
+	tanto para kirougui como para poomsae, defindiendo tanto la 
+	técnica de entrenamiento como los entrenamientos físicos 
+	de fuerza, velocidad y flexibilidad mediante varios niveles
+	desde principiante(cinta blanca) hasta avanzado(cinta negra)
