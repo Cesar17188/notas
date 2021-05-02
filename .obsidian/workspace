@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3144885a1bea0f51",
+        "id": "dece3002adb25e79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testing Dev/jasmine.md",
-            "mode": "preview"
+            "file": "CienciaDatos/googleColab/google colab algebra lineal.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(tensor)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Dev/jasmine.md",
+                "file": "CienciaDatos/googleColab/google colab algebra lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3144885a1bea0f51",
+  "active": "dece3002adb25e79",
   "lastOpenFiles": [
-    "Testing Dev/jasmine.md",
-    "Testing Dev/configuración jasmine.md",
-    "Testing Dev/análisis de código estático.md",
-    "mínimos cuadrados.md",
-    "Regresión lineal/regresión lineal.md",
-    "Regresión lineal/machine learner.md",
-    "regresión lineal.md",
-    "Regresión lineal/machine learner 1.md",
-    "Pasted image 20210428153555.png",
-    "Regresión lineal/Untitled.md"
+    "CienciaDatos/googleColab/google colab algebra lineal.md",
+    "matemáticas/algebra Lineal/algebra lineal.md",
+    "CienciaDatos/googleColab/Untitled.md",
+    "tensor.md",
+    "matemáticas/algebra Lineal/vectores y escalares.md",
+    "matemáticas/algebra Lineal/matriz.md",
+    "vector.md",
+    "matriz.md",
+    "matemáticas/algebra Lineal/bloque o stack de vectores.md",
+    "matemáticas/algebra Lineal/cero vectores.md"
   ]
 }

@@ -1,5 +1,7 @@
 # Jupiter Notebook
 
+Son libros interactivos que nos permiten conservar nuestro código y analisis de datos en un mismo lugar con la documentación y los gráficos como vamos avanzando en los análicis
+
 para correr la jupiter notebook desde el cmd => jupyter notebook
 
 # Comandos de escritura

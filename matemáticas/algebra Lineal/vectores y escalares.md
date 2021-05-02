@@ -1,5 +1,5 @@
 # Vectores
-Diremos que un *vector* es una lista finita de números. Lo podemos encontrar en dos presentaciones:
+Diremos que un *vector* es una lista finita de números con un grado de libertad. Relacionado con el [[algebra lineal]] Lo podemos encontrar en dos presentaciones:
 
 * Vector columna:
 
@@ -64,6 +64,7 @@ Así pues si el objeto del que estamos hablando es elemento de un e
 
 ###**[[Google colab Colores RGB]]**
 
-#  2. [[adición entre vectores]].
-# 3. [[producto escalar]].
-# 4. [[producto interno]]
+# 2. [[escalar]]
+#  3. [[adición entre vectores]].
+# 4. [[producto escalar]].
+# 5. [[producto interno]]
