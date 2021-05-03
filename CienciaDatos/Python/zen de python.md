@@ -17,7 +17,7 @@ son los 20 principios de python creados en 1999 por Tim Peters.
     Por la identación de Python (sus sangrías), este principio se nos hace imposible de esquivar. El código inevitablemente es espaciado.
 -   **La legibilidad es importante**:  
     Es importante que otros programadores puedan entender lo que estamos escribiendo. Esto hace más fáciles las cosas cuando trabajemos con otros en los proyectos.
--   **Los casos especiales no son lo suficientemente especiales cpmo para romper las reglas (sin embargo, la **practicidad le gana a la pureza**)**:  
+-   **Los casos especiales no son lo suficientemente especiales como para romper las reglas (sin embargo, la **practicidad le gana a la pureza**)**:  
     Siempre que podamos respetar estas reglas que nos plantea Python, es mejor así. Sin embargo, si por el hecho de hacer un código muy puro o muy ‘Pythonista’, este pierde legibilidad, es mejor ser más prácticos y romper o saltearnos algunas de estas reglas para que el código sea más eficiente. Por lo tanto, llegado el momento debermos decidir si es mejor hacer las cosas de manera pura o práctica.
 -   **Los errores nunca deberían pasar silenciosamente (a menos que se silencien explícitamente)**:  
     Manejar los erroes es fundamental. Cada error nos dice algo y hay que prestarle atención. A menos que seas capaz de silenciar un error explícitamente, aunque para esto hay que tener criterio.
