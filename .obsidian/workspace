@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dece3002adb25e79",
+        "id": "7e211a5fe8d53972",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CienciaDatos/googleColab/google colab algebra lineal.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CienciaDatos/googleColab/google colab algebra lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dece3002adb25e79",
+  "active": "7e211a5fe8d53972",
   "lastOpenFiles": [
-    "CienciaDatos/googleColab/google colab algebra lineal.md",
-    "matemáticas/algebra Lineal/algebra lineal.md",
-    "CienciaDatos/googleColab/Untitled.md",
-    "tensor.md",
-    "matemáticas/algebra Lineal/vectores y escalares.md",
-    "matemáticas/algebra Lineal/matriz.md",
-    "vector.md",
-    "matriz.md",
-    "matemáticas/algebra Lineal/bloque o stack de vectores.md",
-    "matemáticas/algebra Lineal/cero vectores.md"
+    "RGB.md",
+    "ASCII.md",
+    "bits y bites.md",
+    "desarrollo web/historia/binario.md",
+    "desarrollo web/binario.md",
+    "desarrollo web/historia y funcionamiento de internet.md",
+    "desarrollo web/periféricos.md",
+    "desarrollo web/inputs y outputs.md",
+    "binario.md",
+    "CienciaDatos/Python/zen de python.md"
   ]
 }
