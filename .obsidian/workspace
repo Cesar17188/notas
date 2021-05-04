@@ -7,8 +7,11 @@
         "id": "7e211a5fe8d53972",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "desarrollo web/historia/historia del internet.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "desarrollo web/historia/historia del internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "7e211a5fe8d53972",
   "lastOpenFiles": [
-    "RGB.md",
-    "ASCII.md",
-    "bits y bites.md",
-    "desarrollo web/historia/binario.md",
-    "desarrollo web/binario.md",
-    "desarrollo web/historia y funcionamiento de internet.md",
-    "desarrollo web/periféricos.md",
-    "desarrollo web/inputs y outputs.md",
-    "binario.md",
-    "CienciaDatos/Python/zen de python.md"
+    "desarrollo web/historia/historia del internet.md",
+    "desarrollo web/historia/historia y funcionamiento de internet.md",
+    "desarrollo web/historia/inputs y outputs.md",
+    "desarrollo web/historia/internet.md",
+    "desarrollo web/historia/DNS.md",
+    "desarrollo web/historia/ISP.md",
+    "DNS.md",
+    "ISP.md",
+    "desarrollo web/historia/protocolos.md",
+    "protocolos.md"
   ]
 }

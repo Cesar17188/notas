@@ -66,5 +66,7 @@ Así pues si el objeto del que estamos hablando es elemento de un e
 
 # 2. [[escalar]]
 #  3. [[adición entre vectores]].
+## 	3.1 [[propiedades de la adición]]	
 # 4. [[producto escalar]].
-# 5. [[producto interno]]
+# 5. [[producto interno]].
+## 5.1 [[propiedades del producto de matrices]]

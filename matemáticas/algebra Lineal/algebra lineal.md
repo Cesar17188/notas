@@ -6,9 +6,15 @@ Existen fundamentos matemáticos necesarios para entener el Algebra lineal como 
 
 * # 1. [[escalar]] 
 * # 2. [[vectores y escalares]]
+	* ## 2.1 [[propiedades de la adición]]
 * # 3. [[matriz]]
-* #4. [[tensor]]
+	* ## 3.1 [[propiedades del producto de matrices]]
+	* ## 3.2 [[transposición de un producto de matrices]]
+* # 4. [[tensor]]
 
 Estos fundamentos se diferencian en los grados de libertad que tienen para actuar.
 Para revisar el código de como se ejecutaría en python ir a 
 [[google colab algebra lineal]]
+
+Ademas se pueden usar todas sus propiedades en cosas como:
+* [[comprobación de solución de un sistema de ecuaciones lineal]]
