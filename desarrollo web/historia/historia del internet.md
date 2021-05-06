@@ -13,3 +13,5 @@ Nos lleva a diferentes puntos en la línea del tiempo, observando eventos que pa
 * ## [[protocolos]]
 * ## [[ISP]]
 * ## [[DNS]]
+* ## [[histora de la web]]
+* ## [[W3C]]

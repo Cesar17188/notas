@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/historia/historia del internet.md",
+            "file": "desarrollo web/historia/web browser.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/historia/historia del internet.md",
+                "file": "desarrollo web/historia/web browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7e211a5fe8d53972",
   "lastOpenFiles": [
+    "web browser.md",
+    "desarrollo web/historia/W3C.md",
+    "código.md",
+    "desarrollo web/historia/histora de la web.md",
     "desarrollo web/historia/historia del internet.md",
-    "desarrollo web/historia/historia y funcionamiento de internet.md",
-    "desarrollo web/historia/inputs y outputs.md",
-    "desarrollo web/historia/internet.md",
-    "desarrollo web/historia/DNS.md",
-    "desarrollo web/historia/ISP.md",
-    "DNS.md",
-    "ISP.md",
-    "desarrollo web/historia/protocolos.md",
-    "protocolos.md"
+    "W3C.md",
+    "desarrollo web/historia/Untitled.md",
+    "matemáticas/algebra Lineal/aplicacion de la ivnersa de una matriz para resolver ecuaciones lineales.md",
+    "matemáticas/algebra Lineal/comprobación de solución de un sistema de ecuaciones lineal.md",
+    "matemáticas/algebra Lineal/vectores y escalares.md"
   ]
 }
