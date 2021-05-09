@@ -15,3 +15,13 @@ Nos lleva a diferentes puntos en la línea del tiempo, observando eventos que pa
 * ## [[DNS]]
 * ## [[histora de la web]]
 * ## [[W3C]]
+* ## [[http]]
+* ## [[estándares web]]
+* ## [[la web moderna]]
+* ## Como funciona el navegador
+	* ### [[DOM]]
+	* ### [[CSSOM]]
+	* ### [[render tree]]
+	* ### [[layout]]
+	* ### [[paint]]
+	* ### [[javascript engine ]]

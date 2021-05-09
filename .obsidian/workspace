@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7e211a5fe8d53972",
+        "id": "45c98b32d8b1397f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/historia/web browser.md",
-            "mode": "source"
+            "file": "desarrollo web/historia/layout.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/historia/web browser.md",
+                "file": "desarrollo web/historia/layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e211a5fe8d53972",
+  "active": "45c98b32d8b1397f",
   "lastOpenFiles": [
-    "web browser.md",
+    "desarrollo web/historia/layout.md",
     "desarrollo web/historia/W3C.md",
-    "código.md",
-    "desarrollo web/historia/histora de la web.md",
+    "desarrollo web/historia/CSSOM.md",
+    "desarrollo web/historia/DNS.md",
+    "desarrollo web/historia/DOM.md",
+    "desarrollo web/historia/render tree.md",
     "desarrollo web/historia/historia del internet.md",
-    "W3C.md",
-    "desarrollo web/historia/Untitled.md",
-    "matemáticas/algebra Lineal/aplicacion de la ivnersa de una matriz para resolver ecuaciones lineales.md",
-    "matemáticas/algebra Lineal/comprobación de solución de un sistema de ecuaciones lineal.md",
-    "matemáticas/algebra Lineal/vectores y escalares.md"
+    "desarrollo web/historia/historia y funcionamiento de internet.md",
+    "desarrollo web/historia/http.md",
+    "desarrollo web/historia/inputs y outputs.md"
   ]
 }
