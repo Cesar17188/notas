@@ -1,0 +1,39 @@
+ # Álgebra relacional
+ 
+ ## **Álgebra relacional**
+
+El **álgebra relacional** estudia basicamente las operaciones que se pueden realizar entre diversos conjuntos de datos.  
+⠀
+
+---
+
+⠀  
+No confundir las **relaciones del álgebra relacional** con las **relaciones de una base de datos relacional**.
+
+-   Las relaciones de una base de datos es cuando unes dos tablas.
+-   Las relaciones en álgebra relacional se refiere a una tabla.  
+    \- La diferencia es conceptual: Las tablas pueden tener tuplas repetidas pero en el álgebra relacional cada relación no tiene un cuerpo, no tiene un primer ni último _row_.  
+    ⠀
+
+---
+
+---
+
+## **Tipos de operadores**
+
+-   **Operadores unarios.-** Requiere una relación o tabla para funcionar.  
+    \- **Proyección (π):** Equivale al comando **Select**. Saca un número de columnas o atributos sin necesidad de hacer una unión con una segunda tabla.  
+    **π**<Nombre, Apellido, Email>(Tabla\_Alumno)  
+    ⠀  
+    \- **Selección (σ):** Equivale al comando **Where**. Consiste en el filtrado de de tuplas.  
+    **σ**<Suscripción=Expert>(Tabla\_Alumno)  
+    ⠀
+-   **Operadores binarios.-** Requiere más de una tabla para operar.  
+    \- **Producto cartesiano (x):** Toma todos los elementos de una tabla y los combina con los elementos de la segunda tabla.  
+    Docentes\_Quinto\_A **x** Alumnos\_Quinto\_A  
+    ⠀  
+    \- **Unión (∪):** Obtiene los elementos que existen en una de las tablas o en la otra de las tablas.  
+    Alumnos\_Quinto\_A **x** Alumnos\_Quinto\_B  
+    ⠀  
+    \- **Diferencia (-):** Obtiene los elementos que existe en una de las tablas pero que no corresponde a la otra tabla.  
+    Alumnos\_planExpertPlus **\-** Alumnos\_planFree

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "45c98b32d8b1397f",
+        "id": "faef9e59b9d36e6c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/historia/layout.md",
-            "mode": "preview"
+            "file": "Marketing/curso copywriting con storytelling/definir voz de marca.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(tensor)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/historia/layout.md",
+                "file": "Marketing/curso copywriting con storytelling/definir voz de marca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45c98b32d8b1397f",
+  "active": "faef9e59b9d36e6c",
   "lastOpenFiles": [
-    "desarrollo web/historia/layout.md",
-    "desarrollo web/historia/W3C.md",
-    "desarrollo web/historia/CSSOM.md",
-    "desarrollo web/historia/DNS.md",
-    "desarrollo web/historia/DOM.md",
-    "desarrollo web/historia/render tree.md",
-    "desarrollo web/historia/historia del internet.md",
-    "desarrollo web/historia/historia y funcionamiento de internet.md",
-    "desarrollo web/historia/http.md",
-    "desarrollo web/historia/inputs y outputs.md"
+    "Marketing/curso copywriting con storytelling/definir voz de marca.md",
+    "Marketing/curso copywriting con storytelling/conceptos copywrite.md",
+    "Marketing/curso copywriting con storytelling/curso copywrite con storytelling.md",
+    "Marketing/curso copywriting con storytelling/Untitled.md",
+    "Marketing/curso copywriting con storytelling/7 pasos para el proyecto de redacción web.md",
+    "desarrollo web/javascript/Untitled.md",
+    "desarrollo web/javascript/curso básico de javascript.md",
+    "desarrollo web/javascript/hoisting.md",
+    "desarrollo web/javascript/elementos de un lenguaje de programación.md",
+    "desarrollo web/javascript/javascript.md"
   ]
 }
