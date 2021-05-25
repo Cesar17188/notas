@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marketing/curso copywriting con storytelling/definir voz de marca.md",
+            "file": "desarrollo web/ECMAScript 6+/qué es ecmascript.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/curso copywriting con storytelling/definir voz de marca.md",
+                "file": "desarrollo web/ECMAScript 6+/qué es ecmascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "faef9e59b9d36e6c",
   "lastOpenFiles": [
-    "Marketing/curso copywriting con storytelling/definir voz de marca.md",
-    "Marketing/curso copywriting con storytelling/conceptos copywrite.md",
-    "Marketing/curso copywriting con storytelling/curso copywrite con storytelling.md",
-    "Marketing/curso copywriting con storytelling/Untitled.md",
-    "Marketing/curso copywriting con storytelling/7 pasos para el proyecto de redacción web.md",
-    "desarrollo web/javascript/Untitled.md",
-    "desarrollo web/javascript/curso básico de javascript.md",
+    "desarrollo web/ECMAScript 6+/Untitled.md",
+    "desarrollo web/javascript/variables js.md",
+    "desarrollo web/javascript/recorridos de arrays.md",
+    "desarrollo web/javascript/objetos.md",
+    "desarrollo web/javascript/asignación, comparación y aritméticos.md",
+    "desarrollo web/javascript/coerción.md",
     "desarrollo web/javascript/hoisting.md",
-    "desarrollo web/javascript/elementos de un lenguaje de programación.md",
-    "desarrollo web/javascript/javascript.md"
+    "desarrollo web/javascript/arrays js.md",
+    "desarrollo web/javascript/funciones js.md",
+    "desarrollo web/javascript/Untitled.md"
   ]
 }

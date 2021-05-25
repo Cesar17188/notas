@@ -1,0 +1,15 @@
+# Loops: For, For...of y While
+
+Los bucles pueden ejecutar un bloque de código varias veces. JavaScript admite diferentes tipos de bucles:
+
+-   for - recorre un bloque de código varias veces
+    
+-   for/in - recorre las propiedades de un objeto
+    
+-   for/of - recorre los valores de un objeto iterable
+    
+-   while - recorre un bloque de código mientras se cumple una condición específica
+    
+-   do/while - también recorre un bloque de código mientras se cumple una condición específica
+
+Ambos ciclos se ocupan el for y el while. Con for podemos definir un fin de intentos y con el while mientras se cumpla que lo siga haciendo.

@@ -20,4 +20,9 @@ Los valores de marca que se tenga y el público al que se dirige puede definir n
 
 El objetivo es escribir contenido que CONECTE con las necesidades de tu cliente. ¿Cómo vas a crearlo si no sabes qué PIENSA, SIENTE Y QUIERE?
 
-Es recomendable escuchar al público consumidor del producto que se quiere vender previo a realizar el producto. si ya tienes un público consumir debes escuchar lo que quieren
+Es recomendable escuchar al público consumidor del producto que se quiere vender previo a realizar el producto. si ya tienes un público consumir debes escuchar lo que quieren.
+
+## **Percepción**
+
+Es cuestión de la percepción de nuestro potencial cliente y es que es necesario que lo que perciben de nuestra voz de marca es exactamente lo que queremos proyectar.
+
