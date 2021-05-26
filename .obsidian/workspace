@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/ECMAScript 6+/qué es ecmascript.md",
+            "file": "desarrollo web/SQL/practica sql 2 seleccionar de un set de opciones.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/ECMAScript 6+/qué es ecmascript.md",
+                "file": "desarrollo web/SQL/practica sql 2 seleccionar de un set de opciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "faef9e59b9d36e6c",
   "lastOpenFiles": [
+    "desarrollo web/SQL/Untitled.md",
+    "desarrollo web/SQL/sql.md",
+    "desarrollo web/SQL/practica sql.md",
+    "desarrollo web/SQL/producto cartesiano JOIN.md",
+    "desarrollo web/ECMAScript 6+/arrow functions, promesas y parámetros.md",
     "desarrollo web/ECMAScript 6+/Untitled.md",
-    "desarrollo web/javascript/variables js.md",
-    "desarrollo web/javascript/recorridos de arrays.md",
-    "desarrollo web/javascript/objetos.md",
-    "desarrollo web/javascript/asignación, comparación y aritméticos.md",
-    "desarrollo web/javascript/coerción.md",
-    "desarrollo web/javascript/hoisting.md",
-    "desarrollo web/javascript/arrays js.md",
+    "desarrollo web/ECMAScript 6+/curso de ECMAScript 6+.md",
     "desarrollo web/javascript/funciones js.md",
-    "desarrollo web/javascript/Untitled.md"
+    "desarrollo web/ECMAScript 6+/qué es ecmascript.md",
+    "desarrollo web/javascript/variables js.md"
   ]
 }
