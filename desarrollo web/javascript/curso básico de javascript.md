@@ -15,3 +15,4 @@
 * ## [[loops]]
 * ## [[objetos]]
 * ## [[recorridos de arrays]]
+* ## [[arrow functions, promesas y parámetros]]

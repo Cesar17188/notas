@@ -9,3 +9,7 @@
 * ##  [[agregación y limitantes GROUP BY y LIMIT]]
 * ##  [[practica sql 1]]
 * ## [[practica sql 2 seleccionar de un set de opciones]]
+* ## [[queries con tipo de dato DATE timestamp]]
+* ## [[selectores de rango]]
+* ## [[maximos sql]]
+* ## [[self joins]]

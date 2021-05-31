@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/SQL/practica sql 2 seleccionar de un set de opciones.md",
+            "file": "desarrollo web/javascriptEngineV8/call stack.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/SQL/practica sql 2 seleccionar de un set de opciones.md",
+                "file": "desarrollo web/javascriptEngineV8/call stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "faef9e59b9d36e6c",
   "lastOpenFiles": [
+    "desarrollo web/javascriptEngineV8/Untitled.md",
+    "desarrollo web/javascriptEngineV8/curso javascript engine v8.md",
+    "desarrollo web/javascriptEngineV8/memory heap.md",
+    "desarrollo web/javascriptEngineV8/dentro del engine.md",
+    "desarrollo web/javascriptEngineV8/V8, el JS engine de chrome.md",
+    "desarrollo web/javascript/hoisting.md",
+    "desarrollo web/javascript/arrays js.md",
+    "desarrollo web/SQL/self joins.md",
     "desarrollo web/SQL/Untitled.md",
-    "desarrollo web/SQL/sql.md",
-    "desarrollo web/SQL/practica sql.md",
-    "desarrollo web/SQL/producto cartesiano JOIN.md",
-    "desarrollo web/ECMAScript 6+/arrow functions, promesas y parámetros.md",
-    "desarrollo web/ECMAScript 6+/Untitled.md",
-    "desarrollo web/ECMAScript 6+/curso de ECMAScript 6+.md",
-    "desarrollo web/javascript/funciones js.md",
-    "desarrollo web/ECMAScript 6+/qué es ecmascript.md",
-    "desarrollo web/javascript/variables js.md"
+    "desarrollo web/SQL/sql.md"
   ]
 }
