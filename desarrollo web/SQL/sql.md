@@ -13,3 +13,5 @@
 * ## [[selectores de rango]]
 * ## [[maximos sql]]
 * ## [[self joins]]
+* ## [[diferencias sql]]
+* ## [[mapa de joins]]

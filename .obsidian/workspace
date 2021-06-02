@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "faef9e59b9d36e6c",
+        "id": "f51e5930ef721cb5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/javascriptEngineV8/call stack.md",
+            "file": "desarrollo web/asincronismo JS/curso asincronimos con javascript.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/javascriptEngineV8/call stack.md",
+                "file": "desarrollo web/asincronismo JS/curso asincronimos con javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "faef9e59b9d36e6c",
+  "active": "f51e5930ef721cb5",
   "lastOpenFiles": [
-    "desarrollo web/javascriptEngineV8/Untitled.md",
-    "desarrollo web/javascriptEngineV8/curso javascript engine v8.md",
-    "desarrollo web/javascriptEngineV8/memory heap.md",
-    "desarrollo web/javascriptEngineV8/dentro del engine.md",
-    "desarrollo web/javascriptEngineV8/V8, el JS engine de chrome.md",
-    "desarrollo web/javascript/hoisting.md",
-    "desarrollo web/javascript/arrays js.md",
-    "desarrollo web/SQL/self joins.md",
+    "desarrollo web/asincronismo JS/curso asincronimos con javascript.md",
+    "desarrollo web/ECMAScript 6+/async await.md",
+    "desarrollo web/asincronismo JS/callback.md",
+    "desarrollo web/asincronismo JS/asicronismo js.md",
+    "desarrollo web/asincronismo JS/Untitled.md",
+    "desarrollo web/SQL/mapa de joins.md",
     "desarrollo web/SQL/Untitled.md",
-    "desarrollo web/SQL/sql.md"
+    "desarrollo web/SQL/sql.md",
+    "desarrollo web/SQL/diferencias sql.md",
+    "desarrollo web/SQL/self joins.md"
   ]
 }

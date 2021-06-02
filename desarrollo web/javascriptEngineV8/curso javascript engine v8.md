@@ -6,3 +6,7 @@
 * ## [[ejemplo hoisting]]
 * ## [[memory heap]]
 * ## [[call stack]]
+* ## [[garbage collection]]
+* ## [[stack overflow]]
+* ## [[javascript runtime]]
+* ## [[asincronía]]
