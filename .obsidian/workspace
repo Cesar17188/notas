@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/asincronismo JS/curso asincronimos con javascript.md",
+            "file": "variados/barismo/trazabilidad de cafe.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 274
   },
   "right": {
     "id": "4c655c2d9da4b67b",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/asincronismo JS/curso asincronimos con javascript.md",
+                "file": "variados/barismo/trazabilidad de cafe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f51e5930ef721cb5",
   "lastOpenFiles": [
-    "desarrollo web/asincronismo JS/curso asincronimos con javascript.md",
-    "desarrollo web/ECMAScript 6+/async await.md",
-    "desarrollo web/asincronismo JS/callback.md",
-    "desarrollo web/asincronismo JS/asicronismo js.md",
-    "desarrollo web/asincronismo JS/Untitled.md",
-    "desarrollo web/SQL/mapa de joins.md",
-    "desarrollo web/SQL/Untitled.md",
-    "desarrollo web/SQL/sql.md",
-    "desarrollo web/SQL/diferencias sql.md",
-    "desarrollo web/SQL/self joins.md"
+    "variados/barismo/Untitled.md",
+    "variados/barismo/curso de barismo.md",
+    "CienciaDatos/cálculo derivación/función exponencial.md",
+    "CienciaDatos/cálculo derivación/función de coste.md",
+    "CienciaDatos/cálculo derivación/función.md",
+    "CienciaDatos/cálculo derivación/dominio.md",
+    "CienciaDatos/cálculo derivación/diseñando mapas.md",
+    "CienciaDatos/cálculo derivación/descenso del gradiente.md",
+    "CienciaDatos/cálculo derivación/derivada parcial.md",
+    "CienciaDatos/cálculo derivación/derivada.md"
   ]
 }

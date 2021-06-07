@@ -1,0 +1,10 @@
+# Curso de Tableau
+* ## [[representacion grafica de informacion]]
+* ## [[tableau y herramientas de visualizacion]]
+* ## [[tableau public]]
+* ## [[ importar datos]]
+* ## [[creacion de dashboard]]
+* ## [[comunidad tableau]]
+* ## [[errores comunes al diseñar visualizaciones]]
+* ## [[define la audiencia y objetivo de la visualizacion]]
+* ## [[etica en la visualizacion de datos]]
