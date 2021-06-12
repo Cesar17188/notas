@@ -2,3 +2,7 @@
 * ## [[historia del cafe]]
 * ## [[que es el cafe de especialidad]]
 * ## [[cafe de especialidad vs cafe comercial]]
+* ## [[metodos de extraccion]]
+* ## [[máquina de espresso]]
+* ## [[tueste de los granos de cafe]]
+* ## [[implementos y materiales del set de preparacion]]

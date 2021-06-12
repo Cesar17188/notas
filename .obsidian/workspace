@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f51e5930ef721cb5",
+        "id": "c018501d11eead90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "variados/barismo/trazabilidad de cafe.md",
+            "file": "variados/barismo/curso de barismo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "variados/barismo/trazabilidad de cafe.md",
+                "file": "variados/barismo/curso de barismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f51e5930ef721cb5",
+  "active": "c018501d11eead90",
   "lastOpenFiles": [
-    "variados/barismo/Untitled.md",
     "variados/barismo/curso de barismo.md",
-    "CienciaDatos/cálculo derivación/función exponencial.md",
-    "CienciaDatos/cálculo derivación/función de coste.md",
-    "CienciaDatos/cálculo derivación/función.md",
-    "CienciaDatos/cálculo derivación/dominio.md",
-    "CienciaDatos/cálculo derivación/diseñando mapas.md",
-    "CienciaDatos/cálculo derivación/descenso del gradiente.md",
-    "CienciaDatos/cálculo derivación/derivada parcial.md",
-    "CienciaDatos/cálculo derivación/derivada.md"
+    "desarrollo web/docker/que es docker.md",
+    "desarrollo web/docker/Untitled.md",
+    "CienciaDatos/Tableau/tableau y herramientas de visualizacion.md",
+    "CienciaDatos/Tableau/tableau public.md",
+    "CienciaDatos/Tableau/curso de tableau.md",
+    "CienciaDatos/Tableau/define la audiencia y objetivo de la visualizacion.md",
+    "CienciaDatos/Tableau/narración de historias y visualizaciones de datos con storytelling.md",
+    "Untitled.md",
+    "CienciaDatos/Tableau/Untitled.md"
   ]
 }

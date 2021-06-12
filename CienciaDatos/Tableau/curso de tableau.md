@@ -8,3 +8,7 @@
 * ## [[errores comunes al diseñar visualizaciones]]
 * ## [[define la audiencia y objetivo de la visualizacion]]
 * ## [[etica en la visualizacion de datos]]
+* ## [[tablas y valores calculados]]
+* ## [[fechas y graficas de lineas]]
+* ## [[mapas con filtros, parametros y kpis]]
+* ## [[narración de historias y visualizaciones de datos con storytelling]]
