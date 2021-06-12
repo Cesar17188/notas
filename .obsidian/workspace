@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "variados/barismo/curso de barismo.md",
+            "file": "variados/barismo/implementos y materiales del set de preparacion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "variados/barismo/curso de barismo.md",
+                "file": "variados/barismo/implementos y materiales del set de preparacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "c018501d11eead90",
   "lastOpenFiles": [
+    "variados/barismo/Untitled.md",
     "variados/barismo/curso de barismo.md",
     "desarrollo web/docker/que es docker.md",
     "desarrollo web/docker/Untitled.md",
@@ -96,7 +97,6 @@
     "CienciaDatos/Tableau/curso de tableau.md",
     "CienciaDatos/Tableau/define la audiencia y objetivo de la visualizacion.md",
     "CienciaDatos/Tableau/narración de historias y visualizaciones de datos con storytelling.md",
-    "Untitled.md",
-    "CienciaDatos/Tableau/Untitled.md"
+    "Untitled.md"
   ]
 }
