@@ -1,0 +1,17 @@
+# Canalización
+
+Para poder lograr una extracción correcta, debemos asegurarnos de que el agua pase por toda la pastilla de café de forma parjea y uniforme.
+
+Para que se disuelvan las mismas cantidades de sabores de cada gramo molido. La ducha de la cabeza de grupo dispersa agua de forma pareja hacia el café. Para asegurarnos de esto debemos darnos cuenta de que el café este distribuido uniformemente y con iguales densidades a lo largo de toda la canasta.
+
+El agua siempre va a encontrar el camino de menor resistencia, entonces si encuentra un camino por donde pueda pasar más facilmente como por ejemplo una burbuja de aire o una parte en donde el café este menos compacto va a tomar es camino creando un flujo de extracción. Eso va a causar que el café en esas regiones se sobreextraiga ya que tiene mucho tiempo de contacto con el agua, y las otras partes de la pastilla quedaran sub extraidas ya que no van a tener suficiente tiempo de contacto con el agua. 
+Al probar el expreso vamos a saborear sabores no balanceados, este problema se llama CANALIZACIÓN y es el principal error que encontrarmos a la hora de preparar un expresso.
+
+Hay algunos casos más comunes en donde podemos provocar la canalización. El primer caso sucede en la dosificación, cuando colocamos el porta filtro en el molino para agregarle café puede que este tienda a acumularse en una sola parte de la canasta, y luego por mas que intentemos corregirlo moviendoel cafe con el dedo o con alguna herramienta solo estaremos moviendo la superficie y en el fondo va a seguir desnivelado, cuando compactemos el café nos va a quedar una zona menos densa con menos café, por donde se va a producir un canal. Una forma de corregirlo es dandole unos golpecitos con la mano al portafiltro para que con las pequeñas vribraciones todo se acomode primero en el fondo y luego lidiemos con la superficie. 
+Y una forma de prevenirlo es moviendo el portafiltro en el molino mientras cae el café asi se distribuye deforma pareja, y antes de compactar le damos un solo golpe suave para que no queden burbujas de aire.
+
+Otro caso es al momento de compactar el café con la herramienta que utilizamos llamada tamper, aunque hayamos distribuido el café uniformemente por la canasta si cuando lo compactamos lo hacemos con más fuerza de un lado que del otro, tambien se va a crear un canal. Antes d e utilizar el tamper debemos cerciorarnos que este en una posición perpendicular  al portafiltro e ir tantenado con los dedos para que entre de una forma nivelada, una vez listo compactamos solo una vez.
+
+Por último otro caso común es que luego de dosificar y compactar pareja y uniformemente por algún motivo golpiemos el porta filtro. Tanto con el tamper luego de utilizarlo o golpearlo con la máquina antes de colocarlo en la cabeza del grupo, con este golpe puede que la pastilla de cafe se rompa y se forme una rajadarua o bien se desprenda completamente de las paredes de la canasta y por su puesto al tener este camino tan fácil de pasar el agua va a formar otro canal. Y aunque no podamos ver lo que sucede dentro de la canasta cuando pasa una canalización podemos darnos cuenta durantela extracción. 
+
+Si comienza a salir más rápido o más lento de un lado que del otro por ejemplo o cuando vemos grandes burbujas de aire salir por el pico del porta filtro es un buen signo de que hubo una canalización en el filtro del café

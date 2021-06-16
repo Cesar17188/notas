@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "variados/barismo/implementos y materiales del set de preparacion.md",
+            "file": "variados/barismo/canalizacion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "variados/barismo/implementos y materiales del set de preparacion.md",
+                "file": "variados/barismo/canalizacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "variados/barismo/Untitled.md",
     "variados/barismo/curso de barismo.md",
-    "desarrollo web/docker/que es docker.md",
+    "variados/barismo/trazabilidad de cafe.md",
+    "variados/barismo/que es el cafe de especialidad.md",
+    "variados/barismo/dosis y ratio.md",
     "desarrollo web/docker/Untitled.md",
-    "CienciaDatos/Tableau/tableau y herramientas de visualizacion.md",
-    "CienciaDatos/Tableau/tableau public.md",
-    "CienciaDatos/Tableau/curso de tableau.md",
-    "CienciaDatos/Tableau/define la audiencia y objetivo de la visualizacion.md",
-    "CienciaDatos/Tableau/narración de historias y visualizaciones de datos con storytelling.md",
-    "Untitled.md"
+    "desarrollo web/docker/curso de docker.md",
+    "desarrollo web/docker/contenedores.md",
+    "desarrollo web/docker/las tres areas en el desarrollo de software profesional.md",
+    "desarrollo web/docker/que es docker.md"
   ]
 }

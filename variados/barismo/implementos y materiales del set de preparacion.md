@@ -6,7 +6,7 @@
 
 - Se necesita una máquina de expreso 
 
-- un molino con algunos accesorios como un Thumper, 
+- un molino con algunos accesorios como un Tamper, 
 
 - unos trapitos de microfibra preferentemente,
 

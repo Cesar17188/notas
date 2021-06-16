@@ -12,7 +12,7 @@ Conforme el mundo avanzó la sociedad tambien lo hizo y por consiguiente el cál
 
 La evolución continua y aparecen a las "computadoras", término que se utilizaba para referirse a las personas que realizaban estos cálculos, eran computadoras humanas, eran cuartos de personas enfocadas en hacer cáclulos de grandes magnitudes y exactitudes. Estas personas trabajaron para instituciones de gran importancia como la NASA o para los militares. Ademas comenzaron a existir los libros de cálculo donde se podían consultar un cálculo, ingresar cálculos nuevos y regresar a una respuesta. 
 
-Los libros de cálculo evolucionarion debido a la necesidad de velocidad en el cálculo( como cálculos balisticcos rápidos) .Se comienza a crear máquinas programables que ingresaban datos para que la máquina hiciera los cáculos y les devolvieran las respuestas
+Los libros de cálculo evolucionarion debido a la necesidad de velocidad en el cálculo( como cálculos balisticos rápidos) .Se comienza a crear máquinas programables que ingresaban datos para que la máquina hiciera los cáculos y les devolvieran las respuestas
 
 ![Colossus - Wikipedia, la enciclopedia libre](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Colossus.jpg/270px-Colossus.jpg)
 

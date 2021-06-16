@@ -4,6 +4,7 @@ Cuando una aplicación es alojada en un servidor para ser accedida por sus usuar
 
 Docker es un almacen de contenedores que nos permite instalar las dependencias de nuestras aplicaciones en cada contenedor sin importar la infraestructura que hay debajo.
 
+
 https://teloexplicocongatitos.com/poster/tlecg16
 
 Docker es un programa de código abierto que permite que una aplicación Linux y sus dependencias se empaqueten como un contenedor.

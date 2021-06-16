@@ -6,3 +6,7 @@
 * ## [[máquina de espresso]]
 * ## [[tueste de los granos de cafe]]
 * ## [[implementos y materiales del set de preparacion]]
+* ## [[teoria de expresso y granulometria]]
+* ## [[dosis y ratio]]
+* ## [[presion y temperatura]]
+* ## [[canalizacion]]
