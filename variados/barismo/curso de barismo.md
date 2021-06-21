@@ -2,6 +2,7 @@
 * ## [[historia del cafe]]
 * ## [[que es el cafe de especialidad]]
 * ## [[cafe de especialidad vs cafe comercial]]
+* ## [[trazabilidad de cafe]]
 * ## [[metodos de extraccion]]
 * ## [[máquina de espresso]]
 * ## [[tueste de los granos de cafe]]
@@ -10,3 +11,5 @@
 * ## [[dosis y ratio]]
 * ## [[presion y temperatura]]
 * ## [[canalizacion]]
+* ## [[catar y preparar un expresso 1]]
+* ## [[alternativa por si no se tiene maquina]]
