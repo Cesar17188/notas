@@ -1,0 +1,1 @@
+# Curso de AWS Redshift para Manejo de Big Data

@@ -7,4 +7,6 @@
 * ## [[ambito lexico en closures]]
 * ## [[variables privadas con closures]]
 * ## [[loops closures]]
+* ## [[hoisting]]
+* ## [[debugging]]
 
