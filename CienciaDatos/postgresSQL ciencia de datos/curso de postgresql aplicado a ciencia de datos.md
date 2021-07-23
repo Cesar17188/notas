@@ -1,7 +1,22 @@
 # PostgreSQL para ciencia de datos
 
+https://github.com/rb-one/Curso_de_PostgreSQL_Aplicado_a_Ciencia_de_Datos/blob/master/Notes/notes.md#clase-7-que-es-la-ciencia-de-datos
+
 * ## [[importacion de los datos para el proyecto]]
 * ## [[breve historia de bases de datos]]
 * ## [[puntos fuertes de las bases de datos relacionales]]
 * ## [[conceptos importantes de las bases de datos relacionales]]
 * ## [[principales sentencias SQL]]
+* ## [[que es la ciencia de datos]]
+* ## [[aplicacion de las ciencias de datos]]
+* ## [[equipos orientados a Datos]]
+* ## [[data science vs machine learning]]
+* ## [[diferencias entre otros manejadores y postgresql]]
+* ## [[conoce los superpoderes de PLGSQL]]
+* ## [[PLPGSQL stored procedures]]
+* ## [[PLPGSQL conteo, registro y triggers]]
+* ## [[PLPGSQL aplicado a data science]]
+* ## [[integracion con otros lenguajes]]
+* ## [[tipos de datos personalizados]]
+* ## [[explicacion de la estructura de la base de datos de ejemplo]]
+* ## [[agregacion de datos]]

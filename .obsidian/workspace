@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/frontendDev/flexbox.md",
+            "file": "CienciaDatos/postgresSQL ciencia de datos/agregacion de datos.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/frontendDev/flexbox.md",
+                "file": "CienciaDatos/postgresSQL ciencia de datos/agregacion de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c018501d11eead90",
   "lastOpenFiles": [
-    "desarrollo web/frontendDev/flexbox.md",
-    "desarrollo web/frontendDev/media queries.md",
-    "desarrollo web/frontendDev/anatomia de una declaracion css.md",
-    "desarrollo web/frontendDev/instalacion de sass y configuracion inicial.md",
-    "desarrollo web/frontendDev/Untitled.md",
-    "desarrollo web/frontendDev/valores relativos y absolutos.md",
-    "desarrollo web/frontendDev/tipos de selectores, pseudo-clases y pseudo-elementos.md",
-    "desarrollo web/frontendDev/sistema de layout css grid.md",
-    "desarrollo web/frontendDev/oocss, bem smacss, itcss y atomic design.md",
-    "desarrollo web/frontendDev/posicionamiento en css.md"
+    "CienciaDatos/postgresSQL ciencia de datos/Untitled.md",
+    "CienciaDatos/postgresSQL ciencia de datos/curso de postgresql aplicado a ciencia de datos.md",
+    "CienciaDatos/postgresSQL ciencia de datos/explicacion de la estructura de la base de datos de ejemplo.md",
+    "CienciaDatos/postgresSQL ciencia de datos/tipos de datos personalizados.md",
+    "CienciaDatos/postgresSQL ciencia de datos/PLPGSQL aplicado a data science.md",
+    "CienciaDatos/postgresSQL ciencia de datos/PLPGSQL conteo, registro y triggers.md",
+    "equipos orientados a Datos.md",
+    "CienciaDatos/postgresSQL ciencia de datos/que es la ciencia de datos.md",
+    "CienciaDatos/postgresSQL ciencia de datos/principales sentencias SQL.md",
+    "desarrollo web/frontendDev/sistema de layout css grid.md"
   ]
 }
