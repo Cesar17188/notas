@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c018501d11eead90",
+        "id": "f6c30a910bb635f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CienciaDatos/postgresSQL ciencia de datos/agregacion de datos.md",
+            "file": "desarrollo web/javascriptPractico/como analizar salarios.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CienciaDatos/postgresSQL ciencia de datos/agregacion de datos.md",
+                "file": "desarrollo web/javascriptPractico/como analizar salarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c018501d11eead90",
+  "active": "f6c30a910bb635f7",
   "lastOpenFiles": [
-    "CienciaDatos/postgresSQL ciencia de datos/Untitled.md",
-    "CienciaDatos/postgresSQL ciencia de datos/curso de postgresql aplicado a ciencia de datos.md",
-    "CienciaDatos/postgresSQL ciencia de datos/explicacion de la estructura de la base de datos de ejemplo.md",
-    "CienciaDatos/postgresSQL ciencia de datos/tipos de datos personalizados.md",
-    "CienciaDatos/postgresSQL ciencia de datos/PLPGSQL aplicado a data science.md",
-    "CienciaDatos/postgresSQL ciencia de datos/PLPGSQL conteo, registro y triggers.md",
-    "equipos orientados a Datos.md",
-    "CienciaDatos/postgresSQL ciencia de datos/que es la ciencia de datos.md",
-    "CienciaDatos/postgresSQL ciencia de datos/principales sentencias SQL.md",
-    "desarrollo web/frontendDev/sistema de layout css grid.md"
+    "desarrollo web/javascriptPractico/como analizar salarios.md",
+    "desarrollo web/javascriptPractico/curso de javascript practico.md",
+    "desarrollo web/javascriptPractico/Untitled.md",
+    "desarrollo web/javascriptPractico/calcular la moda en javascript.md",
+    "desarrollo web/javascriptPractico/calculando la mediana en javascript.md",
+    "desarrollo web/javascriptPractico/cual es tu sueño con javascript.md",
+    "desarrollo web/javascriptPractico/crear una pagina web para calcular descuentos.md",
+    "desarrollo web/javascriptPractico/calculando el promedio en javascript.md",
+    "desarrollo web/javascriptPractico/analisis como calcular procentajes y descuentos.md",
+    "desarrollo web/javascriptPractico/calculando figuras geometricas en javascript.md"
   ]
 }

@@ -20,3 +20,6 @@ https://github.com/rb-one/Curso_de_PostgreSQL_Aplicado_a_Ciencia_de_Datos/blob/m
 * ## [[tipos de datos personalizados]]
 * ## [[explicacion de la estructura de la base de datos de ejemplo]]
 * ## [[agregacion de datos]]
+* ## [[pensando en la presentacion]]
+* ## [[trabajando con objetos]]
+* ## [[agregando objetos]]
