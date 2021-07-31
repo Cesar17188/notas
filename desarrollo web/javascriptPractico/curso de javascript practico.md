@@ -17,3 +17,4 @@
 * ## [[calcular la moda en javascript]]
 * ## [[calcula otros tipos de promedio]]
 * ## [[como analizar salarios]]
+* ## [[calculando la mediana de salarios]]
