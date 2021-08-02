@@ -7,3 +7,7 @@
 * [[instalcion de dependendicias con force]]
 * [[actualizar y eliminar paquetes]]
 * [[package lock y el uso los simbolos  especiales]]
+* [[ejecutar tareas npm]]
+* [[solucion de problemas]]
+* [[seguridad npm]]
+* [[crear un paquete para npm]]

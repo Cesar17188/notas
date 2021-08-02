@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/gestion de dependencias y paquetes con npm/package lock y el uso los simbolos  especiales.md",
+            "file": "CienciaDatos/bussiness intelligence/tipos de empresa venta de productos o de servicios.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/gestion de dependencias y paquetes con npm/package lock y el uso los simbolos  especiales.md",
+                "file": "CienciaDatos/bussiness intelligence/tipos de empresa venta de productos o de servicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "8ab7e4ba563effcb",
   "lastOpenFiles": [
-    "desarrollo web/gestion de dependencias y paquetes con npm/Untitled.md",
-    "desarrollo web/gestion de dependencias y paquetes con npm/curso de gestion de dependencias y paquetes con npm.md",
-    "desarrollo web/gestion de dependencias y paquetes con npm/instalacion de dependendicias con force.md",
-    "desarrollo web/gestion de dependencias y paquetes con npm/instalacion de dependendicas.md",
+    "CienciaDatos/bussiness intelligence/Untitled.md",
     "CienciaDatos/bussiness intelligence/curso de bussiness intelligence.md",
     "CienciaDatos/bussiness intelligence/stakeholders.md",
-    "CienciaDatos/bussiness intelligence/Untitled.md",
+    "desarrollo web/gestion de dependencias y paquetes con npm/Untitled.md",
+    "desarrollo web/gestion de dependencias y paquetes con npm/curso de gestion de dependencias y paquetes con npm.md",
+    "desarrollo web/gestion de dependencias y paquetes con npm/package lock y el uso los simbolos  especiales.md",
+    "desarrollo web/gestion de dependencias y paquetes con npm/instalacion de dependendicias con force.md",
+    "desarrollo web/gestion de dependencias y paquetes con npm/instalacion de dependendicas.md",
     "CienciaDatos/bussiness intelligence/lo que aprenderas sobre bussiness intelligence.md",
-    "desarrollo web/gestion de dependencias y paquetes con npm/iniciar un proyecto con npm.md",
-    "desarrollo web/gestion de dependencias y paquetes con npm/acerca de npm, paquetes y modulos.md"
+    "desarrollo web/gestion de dependencias y paquetes con npm/iniciar un proyecto con npm.md"
   ]
 }

@@ -2,3 +2,4 @@
 
 * [[lo que aprenderas sobre bussiness intelligence]]
 * [[stakeholders]]
+* [[tipos de empresa venta de productos o de servicios]]
