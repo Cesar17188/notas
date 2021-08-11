@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/fundamentos de Node.js/os.md",
+            "file": "CienciaDatos/python_profesional/practicando tipado estatico.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/fundamentos de Node.js/os.md",
+                "file": "CienciaDatos/python_profesional/practicando tipado estatico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2383551b05977d96",
   "lastOpenFiles": [
+    "CienciaDatos/python_profesional/Untitled.md",
+    "CienciaDatos/python_profesional/curso profesional de python.md",
+    "CienciaDatos/python_profesional/como organizar las carpetas de tus proyectos.md",
+    "CienciaDatos/dataset.md",
+    "CienciaDatos/python_profesional/como funciona python.md",
     "desarrollo web/fundamentos de Node.js/Untitled.md",
     "desarrollo web/fundamentos de Node.js/curso de fundamentos de node.js.md",
     "desarrollo web/fundamentos de Node.js/errores try catch.md",
     "desarrollo web/fundamentos de Node.js/file system.md",
-    "desarrollo web/fundamentos de Node.js/globals.md",
-    "desarrollo web/fundamentos de Node.js/async await node.md",
-    "desarrollo web/ECMAScript 6+/async await.md",
-    "desarrollo web/fundamentos de Node.js/callback hell refactorizar o sufrir.md",
-    "desarrollo web/fundamentos de Node.js/promesas node.md",
-    "desarrollo web/ECMAScript 6+/arrow functions, promesas y parámetros.md"
+    "desarrollo web/fundamentos de Node.js/globals.md"
   ]
 }
