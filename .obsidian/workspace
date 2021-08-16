@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CienciaDatos/python_profesional/practicando tipado estatico.md",
+            "file": "CienciaDatos/python_profesional/decoradores.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CienciaDatos/python_profesional/practicando tipado estatico.md",
+                "file": "CienciaDatos/python_profesional/decoradores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2383551b05977d96",
   "lastOpenFiles": [
+    "CienciaDatos/python_profesional/decoradores.md",
     "CienciaDatos/python_profesional/Untitled.md",
     "CienciaDatos/python_profesional/curso profesional de python.md",
-    "CienciaDatos/python_profesional/como organizar las carpetas de tus proyectos.md",
-    "CienciaDatos/dataset.md",
+    "CienciaDatos/Python/crear un entorno virtual.md",
     "CienciaDatos/python_profesional/como funciona python.md",
+    "CienciaDatos/python_profesional/que son los tipados.md",
+    "CienciaDatos/python_profesional/practicando tipado estatico.md",
     "desarrollo web/fundamentos de Node.js/Untitled.md",
     "desarrollo web/fundamentos de Node.js/curso de fundamentos de node.js.md",
-    "desarrollo web/fundamentos de Node.js/errores try catch.md",
-    "desarrollo web/fundamentos de Node.js/file system.md",
-    "desarrollo web/fundamentos de Node.js/globals.md"
+    "desarrollo web/fundamentos de Node.js/callback hell refactorizar o sufrir.md"
   ]
 }

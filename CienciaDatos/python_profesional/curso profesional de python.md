@@ -5,3 +5,6 @@
 [[que son los tipados]]
 [[tipado estatico en python]]
 [[practicando tipado estatico]]
+[[scope alcance de variables python]]
+[[closures]]
+[[decoradores]]
