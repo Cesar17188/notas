@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2383551b05977d96",
+        "id": "fa6378622f165952",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CienciaDatos/python_profesional/decoradores.md",
+            "file": "desarrollo web/backend con Nodejs/nodejs para la web.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CienciaDatos/python_profesional/decoradores.md",
+                "file": "desarrollo web/backend con Nodejs/nodejs para la web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2383551b05977d96",
+  "active": "fa6378622f165952",
   "lastOpenFiles": [
-    "CienciaDatos/python_profesional/decoradores.md",
-    "CienciaDatos/python_profesional/Untitled.md",
-    "CienciaDatos/python_profesional/curso profesional de python.md",
-    "CienciaDatos/Python/crear un entorno virtual.md",
-    "CienciaDatos/python_profesional/como funciona python.md",
-    "CienciaDatos/python_profesional/que son los tipados.md",
-    "CienciaDatos/python_profesional/practicando tipado estatico.md",
-    "desarrollo web/fundamentos de Node.js/Untitled.md",
-    "desarrollo web/fundamentos de Node.js/curso de fundamentos de node.js.md",
-    "desarrollo web/fundamentos de Node.js/callback hell refactorizar o sufrir.md"
+    "desarrollo web/backend con Nodejs/Untitled.md",
+    "desarrollo web/backend con Nodejs/curso backend nodejs.md",
+    "desarrollo web/fundamentos de Node.js/instalacion de node.js.md",
+    "desarrollo web/backend con Nodejs/que es nodejs.md",
+    "desarrollo web/backend con Nodejs/diferencias entre nodejs y javascript.md",
+    "desarrollo web/frontendDev/displays en css.md",
+    "desarrollo web/frontendDev/arquitecturas CSS.md",
+    "desarrollo web/frontendDev/anatomia de una declaracion css.md",
+    "desarrollo web/frontendDev/estructura con HTML y BEM de un menú desplegable.md",
+    "CienciaDatos/python_profesional/Untitled.md"
   ]
 }

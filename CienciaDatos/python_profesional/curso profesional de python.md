@@ -8,3 +8,6 @@
 [[scope alcance de variables python]]
 [[closures]]
 [[decoradores]]
+[[iteradores python]]
+[[sucecion fibonacci]]
+[[generadores python]]
