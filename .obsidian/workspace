@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fa6378622f165952",
+        "id": "76f71296ef90b390",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "desarrollo web/backend con Nodejs/nodejs para la web.md",
-            "mode": "source"
+            "file": "CienciaDatos/Analisis exploratorio de datos/visualizaciones de eda.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "__pycache__",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "desarrollo web/backend con Nodejs/nodejs para la web.md",
+                "file": "CienciaDatos/Analisis exploratorio de datos/visualizaciones de eda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa6378622f165952",
+  "active": "76f71296ef90b390",
   "lastOpenFiles": [
-    "desarrollo web/backend con Nodejs/Untitled.md",
+    "CienciaDatos/Analisis exploratorio de datos/Untitled.md",
+    "CienciaDatos/Analisis exploratorio de datos/curso de analisis exploratorio de datos.md",
+    "CienciaDatos/Analisis exploratorio de datos/herramientas de software para analisis exploratorio de datos.md",
+    "CienciaDatos/Analisis exploratorio de datos/comparacion del eda con el analisis clasico y el analisis bayesiano.md",
+    "CienciaDatos/Analisis exploratorio de datos/que es el analisis exploratorio de datos.md",
+    "desarrollo web/backend con Nodejs/que es express.js y para que sirve.md",
+    "desarrollo web/backend con Nodejs/clusters y procesos hijos node.md",
     "desarrollo web/backend con Nodejs/curso backend nodejs.md",
-    "desarrollo web/fundamentos de Node.js/instalacion de node.js.md",
-    "desarrollo web/backend con Nodejs/que es nodejs.md",
-    "desarrollo web/backend con Nodejs/diferencias entre nodejs y javascript.md",
-    "desarrollo web/frontendDev/displays en css.md",
-    "desarrollo web/frontendDev/arquitecturas CSS.md",
-    "desarrollo web/frontendDev/anatomia de una declaracion css.md",
-    "desarrollo web/frontendDev/estructura con HTML y BEM de un menú desplegable.md",
-    "CienciaDatos/python_profesional/Untitled.md"
+    "desarrollo web/backend con Nodejs/Untitled.md",
+    "desarrollo web/backend con Nodejs/administrar directorios y archivos node.md"
   ]
 }

@@ -8,4 +8,12 @@ https://github.com/JasanHdz/backendnodejs/tree/master/notes
 * [[instalacion de node.js]]
 * [[arquitectura orientada a eventos]]
 * [[nodejs para la web]]
+* [[introduccion a streams]]
+* [[readable y writeable streams]]
+* [[duplex y transforms streams]]
+* [[sistema operativo  sistema de archivos node]]
+* [[administrar directorios y archivos node]]
+* [[consola, utilidades y debugging node]]
+* [[clusters y procesos hijos node]]
+* [[que es express.js y para que sirve]]
 

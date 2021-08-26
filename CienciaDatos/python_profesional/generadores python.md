@@ -27,7 +27,7 @@ print(next(a)) # Hello hell!
 print(next(a)) StopIteration
 ```
 
-Ahora veremos un **generator expression** (es como list comprehension pero mucho mejor, porque podemos manejar mucha cantidad  
+Ahora veremos un **generator expression** (es como list comprehension [[list comprehensions]] pero mucho mejor, porque podemos manejar mucha cantidad  
 de información sin tener problemas de rendimiento):
 
 ```python
