@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CienciaDatos/Analisis exploratorio de datos/visualizaciones de eda.md",
-            "mode": "preview"
+            "file": "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/que son y por que utilizar plantillas de proyectos.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "__pycache__",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CienciaDatos/Analisis exploratorio de datos/visualizaciones de eda.md",
+                "file": "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/que son y por que utilizar plantillas de proyectos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "76f71296ef90b390",
   "lastOpenFiles": [
+    "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/que son y por que utilizar plantillas de proyectos.md",
+    "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/Untitled.md",
+    "CienciaDatos/Analisis exploratorio de datos/analisis multivariable empleado el dataset titanic.md",
     "CienciaDatos/Analisis exploratorio de datos/Untitled.md",
     "CienciaDatos/Analisis exploratorio de datos/curso de analisis exploratorio de datos.md",
-    "CienciaDatos/Analisis exploratorio de datos/herramientas de software para analisis exploratorio de datos.md",
-    "CienciaDatos/Analisis exploratorio de datos/comparacion del eda con el analisis clasico y el analisis bayesiano.md",
-    "CienciaDatos/Analisis exploratorio de datos/que es el analisis exploratorio de datos.md",
-    "desarrollo web/backend con Nodejs/que es express.js y para que sirve.md",
-    "desarrollo web/backend con Nodejs/clusters y procesos hijos node.md",
-    "desarrollo web/backend con Nodejs/curso backend nodejs.md",
-    "desarrollo web/backend con Nodejs/Untitled.md",
-    "desarrollo web/backend con Nodejs/administrar directorios y archivos node.md"
+    "CienciaDatos/Analisis exploratorio de datos/regresion y evaluacion de hipotesis.md",
+    "Regresión lineal/regresión lineal.md",
+    "CienciaDatos/Analisis exploratorio de datos/desarollo y evaluacion de modelos.md",
+    "CienciaDatos/Analisis exploratorio de datos/tsa con open power system data.md",
+    "CienciaDatos/Analisis exploratorio de datos/analisis de series de tiempo (tsa).md"
   ]
 }
