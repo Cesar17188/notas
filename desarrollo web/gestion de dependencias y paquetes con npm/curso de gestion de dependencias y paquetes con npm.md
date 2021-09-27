@@ -11,3 +11,6 @@
 * [[solucion de problemas]]
 * [[seguridad npm]]
 * [[crear un paquete para npm]]
+* [[publicar un paquete en npm]]
+* [[eliminar paquetes publicados]]
+* [[paquetes privados]]
