@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "bfa2af970731c8ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9700ad236cd52caa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Marketing/facebook adds/funnel de venta audiencia y objetivos de campaña.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "860513c2c6ce2c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bedfa5dd2ea625ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b4961571f4536b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bf9581f73e15816",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6750020e93d7cf80",
+    "type": "split",
+    "children": [
+      {
+        "id": "3430dff6454f9bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa2179ffdd7f1fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Marketing/facebook adds/funnel de venta audiencia y objetivos de campaña.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9700ad236cd52caa",
+  "lastOpenFiles": [
+    "Marketing/facebook adds/funnel de venta audiencia y objetivos de campaña.md",
+    "buyer personal.png",
+    "Marketing/facebook adds/Untitled.md",
+    "Marketing/facebook adds/curso de facebook adds.md",
+    "Marketing/facebook adds/algoritmo.md",
+    "Marketing/facebook adds/algoritmos de facebook.md",
+    "algoritmo.md",
+    "Marketing/terminos basicos de marketing/Untitled.md",
+    "Marketing/terminos basicos de marketing/curso de terminos basicos de marketing.md",
+    "Marketing/terminos basicos de marketing/introduccion marketing digital.md"
+  ]
+}
