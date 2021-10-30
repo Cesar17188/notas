@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "76f71296ef90b390",
+        "id": "98714c66a7e14736",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/que son y por que utilizar plantillas de proyectos.md",
+            "file": "CienciaDatos/algebra lineal aplicada para machine learning/una imagen es una matriz.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/que son y por que utilizar plantillas de proyectos.md",
+                "file": "CienciaDatos/algebra lineal aplicada para machine learning/una imagen es una matriz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76f71296ef90b390",
+  "active": "98714c66a7e14736",
   "lastOpenFiles": [
-    "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/que son y por que utilizar plantillas de proyectos.md",
-    "CienciaDatos/configuracion profesional de entorno de trabajo para ciencia de datos/Untitled.md",
-    "CienciaDatos/Analisis exploratorio de datos/analisis multivariable empleado el dataset titanic.md",
-    "CienciaDatos/Analisis exploratorio de datos/Untitled.md",
-    "CienciaDatos/Analisis exploratorio de datos/curso de analisis exploratorio de datos.md",
-    "CienciaDatos/Analisis exploratorio de datos/regresion y evaluacion de hipotesis.md",
-    "Regresión lineal/regresión lineal.md",
-    "CienciaDatos/Analisis exploratorio de datos/desarollo y evaluacion de modelos.md",
-    "CienciaDatos/Analisis exploratorio de datos/tsa con open power system data.md",
-    "CienciaDatos/Analisis exploratorio de datos/analisis de series de tiempo (tsa).md"
+    "CienciaDatos/algebra lineal aplicada para machine learning/una imagen es una matriz.md",
+    "CienciaDatos/algebra lineal aplicada para machine learning/curso de algebra lineal para machine learning.md",
+    "desarrollo web/fundamentos de typescript/funciones ts.md",
+    "desarrollo web/fundamentos de typescript/curso de fundamentos de typescript.md",
+    "desarrollo web/fundamentos de typescript/aserciones de tipo.md",
+    "desarrollo web/fundamentos de typescript/union de tipos, alias y tipos de literales.md",
+    "desarrollo web/fundamentos de typescript/enum ts.md",
+    "desarrollo web/fundamentos de typescript/tupla ts.md",
+    "desarrollo web/fundamentos de typescript/object.md",
+    "desarrollo web/fundamentos de typescript/array ts.md"
   ]
 }
