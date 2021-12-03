@@ -1,0 +1,86 @@
+# Funciones especiales
+
+-   minmax: ayuda a declarar el tamaño minimo y maximo para el ancho y alto de una celda, sin depender del contenido que tengamos en ella
+    
+-   repeat : se usa cuando todas las columnas o filas tienen el msmo ancho y evitar repetir el tamaño de las columnas
+
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+  
+
+<head>
+
+ <meta charset="UTF-8">
+
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+ <link rel="stylesheet" href="./style.css">
+
+ <title>Funciones Especiales</title>
+
+</head>
+
+  
+
+<body>
+
+ <div class="contenedor">
+
+ <div class="item item-1">Hola, soy la celda 1</div>
+
+ <div class="item item-2">2</div>
+
+ <div class="item item-3">Celda 3</div>
+
+ <div class="item item-4">4</div>
+
+ <div class="item item-5">5</div>
+
+ <div class="item item-6">6</div>
+
+ <div class="item item-7">7</div>
+
+ <div class="item item-8">8</div>
+
+ <div class="item item-9">9</div>
+
+ </div>
+
+</body>
+
+  
+
+</html>
+```
+ 
+ CSS
+ ```css
+ .contenedor {
+
+ border: 5px solid #EDEBD7;
+
+ background-color: #A39594;
+
+ display: grid;
+
+ grid-template-columns: minmax(30px, 300px) 200px minmax(60px, 250px);
+
+ grid-template-rows: repeat(3, auto); 
+
+}
+
+  
+
+.item {
+
+ border: 5px solid #E3B23C;
+
+ font-size: 2rem;
+
+}
+```

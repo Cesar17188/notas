@@ -5,3 +5,4 @@
 * [[eyetracking]]
 * [[tuneles de venta]]
 * [[funnel de venta audiencia y objetivos de campaña]]
+* [[inversion publicitaria]]

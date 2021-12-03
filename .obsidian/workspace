@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4622deed651b0f",
+        "id": "a30aac71ef82723f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "desarrollo web/definitivo de html y css/curso definitivo dobre html y css.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pycache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313
   },
   "right": {
     "id": "62f35bd774a9dd37",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "desarrollo web/definitivo de html y css/curso definitivo dobre html y css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a4622deed651b0f",
-  "lastOpenFiles": []
+  "active": "a30aac71ef82723f",
+  "lastOpenFiles": [
+    "desarrollo web/definitivo de html y css/curso definitivo dobre html y css.md",
+    "CienciaDatos/crear proyectos de ciencia de datos/como crear tu proyecto de ciencia de datos.md",
+    "CienciaDatos/crear proyectos de ciencia de datos/curso para crear proyectos de ciencia de datos.md",
+    "CienciaDatos/fundamentos practicos de machine learning/que es un arbol de decision y como se divide.md",
+    "CienciaDatos/fundamentos practicos de machine learning/recomendaciones para analizar correctamente tu problema.md",
+    "CienciaDatos/fundamentos practicos de machine learning/curso de fundamentos practicos de machine learning.md",
+    "CienciaDatos/fundamentos practicos de machine learning/entrenamiento del modelo de clasificacion.md",
+    "CienciaDatos/fundamentos practicos de machine learning/evaluacion de la red convolucional.md",
+    "CienciaDatos/fundamentos practicos de machine learning/crea y entrena tu primera red neuronal convolucional con tesor flow.md",
+    "CienciaDatos/fundamentos practicos de machine learning/conociendo el set de datos para la creacion de la red neuronal.md"
+  ]
 }
