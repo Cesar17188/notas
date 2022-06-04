@@ -2,7 +2,7 @@
 # Curso de Frameworks y Librerias de JavaScript
 
 * [[cuando necesitas un framework de javascript]]
-* [[que son los componentes]]
+* [[desarrollo web/Frameworks y librerias de JS/que son los componentes]]
 * [[como estructurar un componente]]
 * [[que es reactividad]]
 * [[librerias vs frameworks]]

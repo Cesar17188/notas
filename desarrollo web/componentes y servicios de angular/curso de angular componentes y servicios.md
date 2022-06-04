@@ -1,0 +1,22 @@
+![[Pasted image 20220306180130.png]]
+
+# Curso de Angular Componentes y Servicios
+
+* [[desarrollo web/Frameworks y librerias de JS/que son los componentes]]
+* [[uso de inputs]]
+* [[uso de outputs]]
+* [[componente para producto]]
+* [[ciclo de vida de componentes]]
+* [[ngDestroy y SetInput]]
+* [[lista de productos]]
+* [[componentes y header]]
+* [[implementando el sideMenu]]
+* [[comunicacion padre e hijo]]
+* [[conociendo los servicios]]
+* [[que es la inyeccion de dependencias]]
+* [[obteniendo datos de una API]]
+* [[conociendo los pipes]]
+* [[construyendo tu propio pipe]]
+* [[conociendo las directivas]]
+* [[reactividad basica]]
+* [[guia de estilos de angular y linters]]

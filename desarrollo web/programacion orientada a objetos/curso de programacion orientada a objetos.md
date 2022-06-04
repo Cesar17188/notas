@@ -1,0 +1,16 @@
+![[Pasted image 20220428152449.png]]
+
+# Curso de Programación Orientada a Objetos: POO
+* [[por que aprender programacion orientada a objetos]]
+* [[que resuelve la programacion orientada a objetos]]
+* [[paradigma orientado a objetos]]
+* [[lenguajes orientados a objetos]]
+* [[instalando visual studio code]]
+* [[diagrama de modelado]]
+* [[que es UML]]
+* [[objetos POO]]
+* [[abstraccion y clases]]
+* [[modularidad]]
+* [[analizando Uber en objetos]]
+* [[clases en UML y su sintaxis en codigo]]
+* [[modelando nuestros objetos Uber]]
